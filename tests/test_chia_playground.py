@@ -1,4 +1,4 @@
-from chia_template import __version__
+from chia_playground import __version__
 
 
 def test_version():
